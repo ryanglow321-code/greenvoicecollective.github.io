@@ -105,6 +105,8 @@
     </div>
     <div class="card">
       <h2>Christopher Green</h2>
+[Green_Voice_Collective_Proposal_Rate_Sheet.pdf](https://github.com/user-attachments/files/24947655/Green_Voice_Collective_Proposal_Rate_Sheet.pdf)
+[Green_Voice_Collective_Rate_Sheet.pdf](https://github.com/user-attachments/files/24947654/Green_Voice_Collective_Rate_Sheet.pdf)
       <p>Clear, engaging, and adaptable delivery with a natural conversational tone. Well-suited for corporate narration, eLearning, and approachable brand messaging.</p>
       <div class="demo"> Christopher Green – Demo reel placeholder</div>
       <p><strong>Specialties:</strong> Corporate narration, eLearning, conversational reads</p>
